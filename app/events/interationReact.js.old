@@ -1,0 +1,12 @@
+module.exports = {
+	name: 'interactionCreate',
+	async execute(interaction) {
+		if (!interaction.isChatInputCommand()) return;
+        //console.log(interaction.commandName)
+	const { commandName } = interaction;
+        if (commandName === 'react') {
+            const message = await interaction.reply({ content: 'You can react with Unicode emojis!', fetchReply: true });
+            message.react('😄');
+        }
+	},
+};

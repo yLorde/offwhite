@@ -1,0 +1,43 @@
+{
+	"token": "MTAwNDUxNDg3NDkyOTQ2NzQ4Mg.Gl1EyM.BVNlnBqUnM5xIIpjJP8pkdn4V21KJ3s3VTBmvw",
+	"clientId":"1004514874929467482",
+	"guildId":"989285429410938880",
+	
+	"user": "db-illuminati-user2",
+	"password": "MdQC7gGBrV6YpG1aux2D",
+	"host": "86.48.23.137",
+	"database": "db",
+	"tableWL":"vrp_users",
+
+
+	"userDbEcho": "user-db-echo",
+	"passwordDbEcho": "joCIi3RtDJQUaBn62277",
+	"hostDbEcho": "86.48.23.137",
+	"databaseDbEcho": "db-discord-bot-echo",
+	
+
+
+	"roleRegistredId" : "995506815024513084",
+	"roleRegistredId2" : "1000700065536540803",
+	"roleWaitRegisterId" : "1001401047224422481",
+	"roleModRegisterId":"1001613568782913626",
+	"roleSocial" :"1000700132326649947",
+	"roleRP" :"1000700065536540803",
+	"roleNotiGeral" :"1004506250530263133",
+	"roleNotiInst" :"1004506516935692369",
+	"roleNotVIP" :"1004507005475618847",
+	"roleNotStream" :"1004901847024283699",
+	"roleNotSModServ" :"1004507033824919552",
+	"roleMute":"1008728871899762758",
+	"roleMuteTxt":"1008731170541940766",
+
+	"channelWhitelist": "995506842191016016",
+	"channelWhitelistLog":"995506845638721566",
+	"channelGeneralLog":"995506845638721566",
+	"channelStaffCommands":"998808409849741382",
+
+	"msgIdAcesso": "1004667869721796638",
+
+	"prefix" : "dev!"
+	
+}
